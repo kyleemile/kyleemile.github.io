@@ -1,0 +1,1 @@
+Twilio.sendMessage("269-313-0120", "You just subscribed to Gossip Girl");
