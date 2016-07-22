@@ -1,0 +1,65 @@
+body {
+    background-color:#33425B;
+    font-family: 'Proxima Nova';
+    text-align:center;
+}
+
+h1 {
+    color:#fff;
+    font-size:75px;
+    font-weight:900;
+}
+
+h3 {
+    color:#fff; 
+    font-weight:700;
+    font-size:45px;
+
+}
+
+.thugin {
+    margin-top:30vh;
+}
+
+
+#texter {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+	padding: 0.8em;
+	border: none;
+	background: #f0f0f0;
+	color: #000;
+}
+
+#output {
+    color:#fff;
+    
+}
+
+#go {
+    margin-top:10px;
+    border:0;
+}
+
+
+button {
+  color: #ffffff;
+  display: block;
+  margin-left:auto;
+  margin-right:auto;
+  font-size: 20px;
+  background: #3498db;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+button:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
